@@ -34,18 +34,18 @@ Fully automated statistics about the real estate market in Latvia. All available
 ### Monthly mean prices in various regions
 **Files:**
 - Apartment
--- [rent-monthly-riga.csv](/data/apartment/rent-monthly-riga.csv)
--- [sell-monthly-riga.csv](/data/apartment/sell-monthly-riga.csv)
--- [rent-monthly-latvia.csv](/data/apartment/rent-monthly-latvia.csv)
--- [sell-monthly-latvia.csv](/data/apartment/sell-monthly-latvia.csv)
+  - [rent-monthly-riga.csv](/data/apartment/rent-monthly-riga.csv)
+  - [sell-monthly-riga.csv](/data/apartment/sell-monthly-riga.csv)
+  - [rent-monthly-latvia.csv](/data/apartment/rent-monthly-latvia.csv)
+  - [sell-monthly-latvia.csv](/data/apartment/sell-monthly-latvia.csv)
 - House
--- [rent-monthly-riga.csv](/data/house/rent-monthly-riga.csv)
--- [sell-monthly-riga.csv](/data/house/sell-monthly-riga.csv)
--- [rent-monthly-latvia.csv](/data/house/rent-monthly-latvia.csv)
--- [sell-monthly-latvia.csv](/data/house/sell-monthly-latvia.csv)
+  - [rent-monthly-riga.csv](/data/house/rent-monthly-riga.csv)
+  - [sell-monthly-riga.csv](/data/house/sell-monthly-riga.csv)
+  - [rent-monthly-latvia.csv](/data/house/rent-monthly-latvia.csv)
+  - [sell-monthly-latvia.csv](/data/house/sell-monthly-latvia.csv)
 - Land
--- [rent-monthly-riga.csv](/data/land/rent-monthly-riga.csv)
--- [sell-monthly-riga.csv](/data/land/sell-monthly-riga.csv)
+  - [rent-monthly-riga.csv](/data/land/rent-monthly-riga.csv)
+  - [sell-monthly-riga.csv](/data/land/sell-monthly-riga.csv)
 
 **Available information:**
 - start date
