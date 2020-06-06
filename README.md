@@ -24,6 +24,8 @@ Fully automated statistics about the real estate market in Latvia. All available
 - standard deviation
 
 ### Weekly market share analysis
+> This data-set is no longer being updated.
+
 **File:** [weekly-market-share.csv](/data/weekly-market-share.csv)
 
 **Available information:**
