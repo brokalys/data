@@ -8,9 +8,9 @@ Fully automated statistics about the real estate market in Latvia. All available
 
 ### Daily market analysis
 **Files:** 
-- [daily-buy.csv](/data/daily-buy.csv)
 - [daily-rent.csv](/data/daily-rent.csv)
 - [daily-sell.csv](/data/daily-sell.csv)
+- [daily-buy.csv](/data/daily-buy.csv) (no longer being updated)
 - [daily-want-to-rent.csv](/data/daily-want-to-rent.csv) (no longer being updated)
 
 **Available information:**
