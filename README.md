@@ -1,5 +1,7 @@
 # Brokalys data
 
+## IMPORTANT: automatic data extraction has been deprecated. Please contact me if you need the latest data
+
 Open real estate data for Latvia.
 
 Fully automated statistics about the real estate market in Latvia. All available data is located in the `data` folder.
